@@ -1,0 +1,26 @@
+{
+  "name": "match-me-2",
+  "version": "1.0.0",
+  "description": "Place Where u can find ur partner 😜",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feediiiii/Match-Me-2.git"
+  },
+  "keywords": [],
+  "author": "Fedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feediiiii/Match-Me-2/issues"
+  },
+  "homepage": "https://github.com/feediiiii/Match-Me-2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
