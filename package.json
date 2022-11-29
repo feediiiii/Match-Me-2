@@ -4,7 +4,8 @@
   "description": "Place Where u can find ur partner 😜",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon index.js"
+    "start":"nodemon index.js",
+    "start-server":"nodemon server"
   },
   "repository": {
     "type": "git",
